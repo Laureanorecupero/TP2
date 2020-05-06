@@ -1,0 +1,6 @@
+C:\.NET\TP2L02\TP2\Business.Logic\bin\Debug\Business.Logic.dll
+C:\.NET\TP2L02\TP2\Business.Logic\bin\Debug\Business.Logic.pdb
+C:\.NET\TP2L02\TP2\Business.Logic\obj\Debug\Business.Logic.csprojAssemblyReference.cache
+C:\.NET\TP2L02\TP2\Business.Logic\obj\Debug\Business.Logic.csproj.CoreCompileInputs.cache
+C:\.NET\TP2L02\TP2\Business.Logic\obj\Debug\Business.Logic.dll
+C:\.NET\TP2L02\TP2\Business.Logic\obj\Debug\Business.Logic.pdb
