@@ -4,3 +4,9 @@ C:\.NET\TP2L02\TP2\Bussines.Entities\bin\Debug\Bussines.Entities.dll
 C:\.NET\TP2L02\TP2\Bussines.Entities\bin\Debug\Bussines.Entities.pdb
 C:\.NET\TP2L02\TP2\Bussines.Entities\obj\Debug\Bussines.Entities.dll
 C:\.NET\TP2L02\TP2\Bussines.Entities\obj\Debug\Bussines.Entities.pdb
+C:\Users\Recupero\Source\Repos\TP2\Bussines.Entities\bin\Debug\Bussines.Entities.dll
+C:\Users\Recupero\Source\Repos\TP2\Bussines.Entities\bin\Debug\Bussines.Entities.pdb
+C:\Users\Recupero\Source\Repos\TP2\Bussines.Entities\obj\Debug\Bussines.Entities.csprojAssemblyReference.cache
+C:\Users\Recupero\Source\Repos\TP2\Bussines.Entities\obj\Debug\Bussines.Entities.csproj.CoreCompileInputs.cache
+C:\Users\Recupero\Source\Repos\TP2\Bussines.Entities\obj\Debug\Bussines.Entities.dll
+C:\Users\Recupero\Source\Repos\TP2\Bussines.Entities\obj\Debug\Bussines.Entities.pdb

@@ -8,6 +8,16 @@ namespace Bussines.Entities
 {
     public class Personas:BusinessEntity
     {
+        public Personas()
+        {
+            this.TipoPersona = TiposPersonas.Tipo1;
+        }
+        private TiposPersonas _TipoPersona;
+        public TiposPersonas TipoPersona
+        {
+            get { return _TipoPersona; }
+            set { _TipoPersona = value; }
+        }
         private string _Apellido;
         public string Apellido
         {
@@ -57,7 +67,13 @@ namespace Bussines.Entities
             get { return _Telefono; }
             set { _Telefono = value; }
         }
-        
+        public enum TiposPersonas
+        {
+            Tipo1,
+            Tipo2,
+            Tipo3,
+            Tipo4
+        }
 
     }
 }
