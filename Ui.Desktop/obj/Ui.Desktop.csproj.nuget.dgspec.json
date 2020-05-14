@@ -4,6 +4,37 @@
     "C:\\Users\\Recupero\\Source\\Repos\\TP2\\Ui.Desktop\\Ui.Desktop.csproj": {}
   },
   "projects": {
+    "C:\\Users\\Recupero\\Source\\Repos\\TP2\\Business.Logic\\Business.Logic.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\Recupero\\Source\\Repos\\TP2\\Business.Logic\\Business.Logic.csproj",
+        "projectName": "Business.Logic",
+        "projectPath": "C:\\Users\\Recupero\\Source\\Repos\\TP2\\Business.Logic\\Business.Logic.csproj",
+        "frameworks": {
+          "net472": {
+            "projectReferences": {
+              "C:\\Users\\Recupero\\Source\\Repos\\TP2\\Bussines.Entities\\Bussines.Entities.csproj": {
+                "projectPath": "C:\\Users\\Recupero\\Source\\Repos\\TP2\\Bussines.Entities\\Bussines.Entities.csproj"
+              }
+            }
+          }
+        }
+      },
+      "frameworks": {
+        "net472": {}
+      }
+    },
+    "C:\\Users\\Recupero\\Source\\Repos\\TP2\\Bussines.Entities\\Bussines.Entities.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\Recupero\\Source\\Repos\\TP2\\Bussines.Entities\\Bussines.Entities.csproj",
+        "projectName": "Bussines.Entities",
+        "projectPath": "C:\\Users\\Recupero\\Source\\Repos\\TP2\\Bussines.Entities\\Bussines.Entities.csproj"
+      },
+      "frameworks": {
+        "net472": {}
+      }
+    },
     "C:\\Users\\Recupero\\Source\\Repos\\TP2\\Ui.Desktop\\Ui.Desktop.csproj": {
       "version": "1.0.0",
       "restore": {
@@ -30,7 +61,14 @@
         },
         "frameworks": {
           "netcoreapp3.1": {
-            "projectReferences": {}
+            "projectReferences": {
+              "C:\\Users\\Recupero\\Source\\Repos\\TP2\\Business.Logic\\Business.Logic.csproj": {
+                "projectPath": "C:\\Users\\Recupero\\Source\\Repos\\TP2\\Business.Logic\\Business.Logic.csproj"
+              },
+              "C:\\Users\\Recupero\\Source\\Repos\\TP2\\Bussines.Entities\\Bussines.Entities.csproj": {
+                "projectPath": "C:\\Users\\Recupero\\Source\\Repos\\TP2\\Bussines.Entities\\Bussines.Entities.csproj"
+              }
+            }
           }
         },
         "warningProperties": {

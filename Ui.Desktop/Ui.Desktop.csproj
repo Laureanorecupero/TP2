@@ -6,4 +6,9 @@
     <UseWindowsForms>true</UseWindowsForms>
   </PropertyGroup>
 
+  <ItemGroup>
+    <ProjectReference Include="..\Business.Logic\Business.Logic.csproj" />
+    <ProjectReference Include="..\Bussines.Entities\Bussines.Entities.csproj" />
+  </ItemGroup>
+
 </Project>

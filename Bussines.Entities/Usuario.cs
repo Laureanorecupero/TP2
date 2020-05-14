@@ -7,7 +7,7 @@ using System.Security.Policy;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace TP2.Bussines.Entities
+namespace Bussines.Entities
 {
     public class Usuario:BusinessEntity
     {
