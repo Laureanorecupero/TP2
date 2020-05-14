@@ -1,0 +1,2 @@
+C:\Users\Recupero\source\repos\TP2\Data.Database\Data.Database\obj\Debug\Data.Database.csprojAssemblyReference.cache
+C:\Users\Recupero\source\repos\TP2\Data.Database\Data.Database\obj\Debug\Data.Database.csproj.CoreCompileInputs.cache

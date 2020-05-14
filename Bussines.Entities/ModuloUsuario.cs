@@ -5,7 +5,7 @@ using System.Security.Policy;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace Bussines.Entities
+namespace Business.Entities
 {
     public class ModuloUsuario:BusinessEntity
     {

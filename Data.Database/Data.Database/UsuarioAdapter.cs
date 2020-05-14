@@ -2,7 +2,7 @@ using System;
 using System.Collections.Generic;
 using System.Text;
 
-using Bussines.Entities;
+using Business.Entities;
 
 namespace Data.Database
 {
@@ -28,7 +28,7 @@ namespace Data.Database
                     usr.Apellido = "Cegado";
                     usr.NombreUsuario = "casicegado";
                     usr.Clave = "miro";
-                    usr.EMail = "casimirocegado@gmail.com";
+                    usr.Email = "casimirocegado@gmail.com";
                     usr.Habilitado = true;
                     _Usuarios.Add(usr);
 
@@ -39,7 +39,7 @@ namespace Data.Database
                     usr.Apellido = "Quito";
                     usr.NombreUsuario = "aequito";
                     usr.Clave = "carpintero";
-                    usr.EMail = "armandoquito@gmail.com";
+                    usr.Email = "armandoquito@gmail.com";
                     usr.Habilitado = true;
                     _Usuarios.Add(usr);
 
@@ -50,7 +50,7 @@ namespace Data.Database
                     usr.Apellido = "Brado";
                     usr.NombreUsuario = "alanbrado";
                     usr.Clave = "abrete sesamo";
-                    usr.EMail = "alanbrado@gmail.com";
+                    usr.Email = "alanbrado@gmail.com";
                     usr.Habilitado = true;
                     _Usuarios.Add(usr);
 
@@ -60,22 +60,22 @@ namespace Data.Database
         }
         #endregion
 
-        public static List<Usuario> GetAll()
+        public  List<Usuario> GetAll()
         {
             return new List<Usuario>(Usuarios);
         }
 
-        public static Bussines.Entities.Usuario GetOne(int ID)
+        public  Business.Entities.Usuario GetOne(int ID)
         {
             return Usuarios.Find(delegate(Usuario u) { return u.ID == ID; });
         }
 
-        public static void Delete(int ID)
+        public  void Delete(int ID)
         {
             Usuarios.Remove(this.GetOne(ID));
         }
 
-        public static void Save(Usuario usuario)
+        public  void Save(Usuario usuario)
         {
             if (usuario.State == BusinessEntity.States.New)
             {

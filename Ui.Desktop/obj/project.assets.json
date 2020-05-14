@@ -2,10 +2,20 @@
   "version": 3,
   "targets": {
     ".NETCoreApp,Version=v3.1": {
+      "Business.Entities/1.0.0": {
+        "type": "project",
+        "compile": {
+          "bin/placeholder/Business.Entities.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/Business.Entities.dll": {}
+        }
+      },
       "Business.Logic/1.0.0": {
         "type": "project",
         "dependencies": {
-          "Bussines.Entities": "1.0.0"
+          "Business.Entities": "1.0.0",
+          "Data.Database": "1.0.0"
         },
         "compile": {
           "bin/placeholder/Business.Logic.dll": {}
@@ -14,33 +24,41 @@
           "bin/placeholder/Business.Logic.dll": {}
         }
       },
-      "Bussines.Entities/1.0.0": {
+      "Data.Database/1.0.0": {
         "type": "project",
+        "dependencies": {
+          "Business.Entities": "1.0.0"
+        },
         "compile": {
-          "bin/placeholder/Bussines.Entities.dll": {}
+          "bin/placeholder/Data.Database.dll": {}
         },
         "runtime": {
-          "bin/placeholder/Bussines.Entities.dll": {}
+          "bin/placeholder/Data.Database.dll": {}
         }
       }
     }
   },
   "libraries": {
+    "Business.Entities/1.0.0": {
+      "type": "project",
+      "path": "../Bussines.Entities/Business.Entities.csproj",
+      "msbuildProject": "../Bussines.Entities/Business.Entities.csproj"
+    },
     "Business.Logic/1.0.0": {
       "type": "project",
       "path": "../Business.Logic/Business.Logic.csproj",
       "msbuildProject": "../Business.Logic/Business.Logic.csproj"
     },
-    "Bussines.Entities/1.0.0": {
+    "Data.Database/1.0.0": {
       "type": "project",
-      "path": "../Bussines.Entities/Bussines.Entities.csproj",
-      "msbuildProject": "../Bussines.Entities/Bussines.Entities.csproj"
+      "path": "../Data.Database/Data.Database/Data.Database.csproj",
+      "msbuildProject": "../Data.Database/Data.Database/Data.Database.csproj"
     }
   },
   "projectFileDependencyGroups": {
     ".NETCoreApp,Version=v3.1": [
-      "Business.Logic >= 1.0.0",
-      "Bussines.Entities >= 1.0.0"
+      "Business.Entities >= 1.0.0",
+      "Business.Logic >= 1.0.0"
     ]
   },
   "packageFolders": {
@@ -77,8 +95,8 @@
             "C:\\Users\\Recupero\\Source\\Repos\\TP2\\Business.Logic\\Business.Logic.csproj": {
               "projectPath": "C:\\Users\\Recupero\\Source\\Repos\\TP2\\Business.Logic\\Business.Logic.csproj"
             },
-            "C:\\Users\\Recupero\\Source\\Repos\\TP2\\Bussines.Entities\\Bussines.Entities.csproj": {
-              "projectPath": "C:\\Users\\Recupero\\Source\\Repos\\TP2\\Bussines.Entities\\Bussines.Entities.csproj"
+            "C:\\Users\\Recupero\\Source\\Repos\\TP2\\Bussines.Entities\\Business.Entities.csproj": {
+              "projectPath": "C:\\Users\\Recupero\\Source\\Repos\\TP2\\Bussines.Entities\\Business.Entities.csproj"
             }
           }
         }

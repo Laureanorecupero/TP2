@@ -1,0 +1,6 @@
+C:\Users\Recupero\Source\Repos\TP2\Bussines.Entities\bin\Debug\Bussines.Entities.dll
+C:\Users\Recupero\Source\Repos\TP2\Bussines.Entities\bin\Debug\Bussines.Entities.pdb
+C:\Users\Recupero\Source\Repos\TP2\Bussines.Entities\obj\Debug\Business.Entities.csprojAssemblyReference.cache
+C:\Users\Recupero\Source\Repos\TP2\Bussines.Entities\obj\Debug\Business.Entities.csproj.CoreCompileInputs.cache
+C:\Users\Recupero\Source\Repos\TP2\Bussines.Entities\obj\Debug\Bussines.Entities.dll
+C:\Users\Recupero\Source\Repos\TP2\Bussines.Entities\obj\Debug\Bussines.Entities.pdb

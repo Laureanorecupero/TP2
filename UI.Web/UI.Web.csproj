@@ -94,9 +94,9 @@
       <Project>{a60ddc31-b012-4637-b85e-3557d3472303}</Project>
       <Name>Business.Logic</Name>
     </ProjectReference>
-    <ProjectReference Include="..\Bussines.Entities\Bussines.Entities.csproj">
+    <ProjectReference Include="..\Bussines.Entities\Business.Entities.csproj">
       <Project>{0c6e4574-74ea-4202-8d55-3e050ffcf3e9}</Project>
-      <Name>Bussines.Entities</Name>
+      <Name>Business.Entities</Name>
     </ProjectReference>
   </ItemGroup>
   <PropertyGroup>

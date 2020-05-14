@@ -1,4 +1,4 @@
-﻿using Bussines.Entities;
+﻿using Business.Entities;
 using System;
 using System.Collections.Generic;
 using System.Linq;
@@ -7,21 +7,21 @@ using System.Security.Policy;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace Bussines.Entities
+namespace Business.Entities
 {
     public class Usuario:BusinessEntity
     {
-        private string _User;
-        public string User
+        private string _NombreUsuario;
+        public string NombreUsuario
         {
-            get { return _User; }
-            set { _User = value; }
+            get { return _NombreUsuario; }
+            set { _NombreUsuario = value; }
         }
-        private string _password;
-        public string password 
+        private string _Clave;
+        public string Clave 
         {
-            get { return _password; }
-            set { _password = value; }
+            get { return _Clave; }
+            set { _Clave = value; }
         }
         private string _Nombre;
         public string Nombre
@@ -40,6 +40,13 @@ namespace Bussines.Entities
         {
             get { return _Email; }
             set { _Email = value; }
+        }
+
+        private bool _Habilitado;
+        public bool Habilitado
+        {
+            get { return _Habilitado; }
+            set { Habilitado = value; }
         }
     }
 }
