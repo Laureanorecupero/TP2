@@ -68,11 +68,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Recupero\\Source\\Repos\\TP2\\Ui.Desktop\\Ui.Desktop.csproj",
+      "projectUniqueName": "C:\\Users\\Recupero\\source\\repos\\TP2\\Ui.Desktop\\Ui.Desktop.csproj",
       "projectName": "Ui.Desktop",
-      "projectPath": "C:\\Users\\Recupero\\Source\\Repos\\TP2\\Ui.Desktop\\Ui.Desktop.csproj",
+      "projectPath": "C:\\Users\\Recupero\\source\\repos\\TP2\\Ui.Desktop\\Ui.Desktop.csproj",
       "packagesPath": "C:\\Users\\Recupero\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Recupero\\Source\\Repos\\TP2\\Ui.Desktop\\obj\\",
+      "outputPath": "C:\\Users\\Recupero\\source\\repos\\TP2\\Ui.Desktop\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Microsoft\\Xamarin\\NuGet\\"
@@ -92,11 +92,11 @@
       "frameworks": {
         "netcoreapp3.1": {
           "projectReferences": {
-            "C:\\Users\\Recupero\\Source\\Repos\\TP2\\Business.Logic\\Business.Logic.csproj": {
-              "projectPath": "C:\\Users\\Recupero\\Source\\Repos\\TP2\\Business.Logic\\Business.Logic.csproj"
+            "C:\\Users\\Recupero\\source\\repos\\TP2\\Business.Logic\\Business.Logic.csproj": {
+              "projectPath": "C:\\Users\\Recupero\\source\\repos\\TP2\\Business.Logic\\Business.Logic.csproj"
             },
-            "C:\\Users\\Recupero\\Source\\Repos\\TP2\\Bussines.Entities\\Business.Entities.csproj": {
-              "projectPath": "C:\\Users\\Recupero\\Source\\Repos\\TP2\\Bussines.Entities\\Business.Entities.csproj"
+            "C:\\Users\\Recupero\\source\\repos\\TP2\\Bussines.Entities\\Business.Entities.csproj": {
+              "projectPath": "C:\\Users\\Recupero\\source\\repos\\TP2\\Bussines.Entities\\Business.Entities.csproj"
             }
           }
         }

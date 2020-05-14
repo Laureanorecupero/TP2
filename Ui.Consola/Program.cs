@@ -15,7 +15,7 @@ namespace Ui.Consola
     {
         static void Main(string[] args)
         {
-            new Usuarios().menu();
+            new Usuarios().Menu();
 
         }
 

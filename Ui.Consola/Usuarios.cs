@@ -15,7 +15,7 @@ namespace Ui.Consola
         public static UsuarioLogic UsuarioNegocio { get; set; }
 
 
-        public void menu()
+        public void Menu()
         {
             int rta;
             do
