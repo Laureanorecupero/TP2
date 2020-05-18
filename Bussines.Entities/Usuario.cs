@@ -46,7 +46,7 @@ namespace Business.Entities
         public bool Habilitado
         {
             get { return _Habilitado; }
-            set { Habilitado = value; }
+            set { _Habilitado = value; }
         }
     }
 }

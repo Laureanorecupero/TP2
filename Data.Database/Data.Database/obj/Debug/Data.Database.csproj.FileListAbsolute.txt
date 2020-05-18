@@ -1,2 +1,9 @@
 C:\Users\Recupero\source\repos\TP2\Data.Database\Data.Database\obj\Debug\Data.Database.csprojAssemblyReference.cache
 C:\Users\Recupero\source\repos\TP2\Data.Database\Data.Database\obj\Debug\Data.Database.csproj.CoreCompileInputs.cache
+C:\Users\Recupero\source\repos\TP2\Data.Database\Data.Database\bin\Debug\Data.Database.dll
+C:\Users\Recupero\source\repos\TP2\Data.Database\Data.Database\bin\Debug\Data.Database.pdb
+C:\Users\Recupero\source\repos\TP2\Data.Database\Data.Database\bin\Debug\Bussines.Entities.dll
+C:\Users\Recupero\source\repos\TP2\Data.Database\Data.Database\bin\Debug\Bussines.Entities.pdb
+C:\Users\Recupero\source\repos\TP2\Data.Database\Data.Database\obj\Debug\Data.Database.csproj.CopyComplete
+C:\Users\Recupero\source\repos\TP2\Data.Database\Data.Database\obj\Debug\Data.Database.dll
+C:\Users\Recupero\source\repos\TP2\Data.Database\Data.Database\obj\Debug\Data.Database.pdb

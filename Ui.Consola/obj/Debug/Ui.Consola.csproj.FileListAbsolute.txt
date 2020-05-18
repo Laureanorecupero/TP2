@@ -1,2 +1,14 @@
 C:\Users\Recupero\source\repos\TP2\Ui.Consola\obj\Debug\Ui.Consola.csproj.CoreCompileInputs.cache
 C:\Users\Recupero\source\repos\TP2\Ui.Consola\obj\Debug\Ui.Consola.csprojAssemblyReference.cache
+C:\Users\Recupero\source\repos\TP2\Ui.Consola\bin\Debug\Ui.Consola.exe.config
+C:\Users\Recupero\source\repos\TP2\Ui.Consola\bin\Debug\Ui.Consola.exe
+C:\Users\Recupero\source\repos\TP2\Ui.Consola\bin\Debug\Ui.Consola.pdb
+C:\Users\Recupero\source\repos\TP2\Ui.Consola\bin\Debug\Business.Logic.dll
+C:\Users\Recupero\source\repos\TP2\Ui.Consola\bin\Debug\Bussines.Entities.dll
+C:\Users\Recupero\source\repos\TP2\Ui.Consola\bin\Debug\Data.Database.dll
+C:\Users\Recupero\source\repos\TP2\Ui.Consola\bin\Debug\Business.Logic.pdb
+C:\Users\Recupero\source\repos\TP2\Ui.Consola\bin\Debug\Bussines.Entities.pdb
+C:\Users\Recupero\source\repos\TP2\Ui.Consola\bin\Debug\Data.Database.pdb
+C:\Users\Recupero\source\repos\TP2\Ui.Consola\obj\Debug\Ui.Consola.csproj.CopyComplete
+C:\Users\Recupero\source\repos\TP2\Ui.Consola\obj\Debug\Ui.Consola.exe
+C:\Users\Recupero\source\repos\TP2\Ui.Consola\obj\Debug\Ui.Consola.pdb

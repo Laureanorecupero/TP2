@@ -45,7 +45,7 @@
         "projectName": "Data.Database",
         "projectPath": "C:\\Users\\Recupero\\source\\repos\\TP2\\Data.Database\\Data.Database\\Data.Database.csproj",
         "frameworks": {
-          "net40": {
+          "net472": {
             "projectReferences": {
               "C:\\Users\\Recupero\\source\\repos\\TP2\\Bussines.Entities\\Business.Entities.csproj": {
                 "projectPath": "C:\\Users\\Recupero\\source\\repos\\TP2\\Bussines.Entities\\Business.Entities.csproj"
@@ -55,7 +55,7 @@
         }
       },
       "frameworks": {
-        "net40": {}
+        "net472": {}
       }
     },
     "C:\\Users\\Recupero\\source\\repos\\TP2\\Ui.Desktop\\Ui.Desktop.csproj": {
