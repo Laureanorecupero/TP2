@@ -1,0 +1,16 @@
+C:\Users\Recupero\source\repos\TP2\UI.Desktop\bin\Debug\UI.Desktop.exe.config
+C:\Users\Recupero\source\repos\TP2\UI.Desktop\bin\Debug\UI.Desktop.exe
+C:\Users\Recupero\source\repos\TP2\UI.Desktop\bin\Debug\UI.Desktop.pdb
+C:\Users\Recupero\source\repos\TP2\UI.Desktop\obj\Debug\UI.Desktop.csprojAssemblyReference.cache
+C:\Users\Recupero\source\repos\TP2\UI.Desktop\obj\Debug\UI.Desktop.Properties.Resources.resources
+C:\Users\Recupero\source\repos\TP2\UI.Desktop\obj\Debug\UI.Desktop.csproj.GenerateResource.cache
+C:\Users\Recupero\source\repos\TP2\UI.Desktop\obj\Debug\UI.Desktop.csproj.CoreCompileInputs.cache
+C:\Users\Recupero\source\repos\TP2\UI.Desktop\obj\Debug\UI.Desktop.exe
+C:\Users\Recupero\source\repos\TP2\UI.Desktop\obj\Debug\UI.Desktop.pdb
+C:\Users\Recupero\source\repos\TP2\UI.Desktop\bin\Debug\Business.Logic.dll
+C:\Users\Recupero\source\repos\TP2\UI.Desktop\bin\Debug\Bussines.Entities.dll
+C:\Users\Recupero\source\repos\TP2\UI.Desktop\bin\Debug\Data.Database.dll
+C:\Users\Recupero\source\repos\TP2\UI.Desktop\bin\Debug\Business.Logic.pdb
+C:\Users\Recupero\source\repos\TP2\UI.Desktop\bin\Debug\Bussines.Entities.pdb
+C:\Users\Recupero\source\repos\TP2\UI.Desktop\bin\Debug\Data.Database.pdb
+C:\Users\Recupero\source\repos\TP2\UI.Desktop\obj\Debug\UI.Desktop.csproj.CopyComplete
