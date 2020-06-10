@@ -14,3 +14,4 @@ C:\Users\Recupero\source\repos\TP2\UI.Desktop\bin\Debug\Business.Logic.pdb
 C:\Users\Recupero\source\repos\TP2\UI.Desktop\bin\Debug\Bussines.Entities.pdb
 C:\Users\Recupero\source\repos\TP2\UI.Desktop\bin\Debug\Data.Database.pdb
 C:\Users\Recupero\source\repos\TP2\UI.Desktop\obj\Debug\UI.Desktop.csproj.CopyComplete
+C:\Users\Recupero\source\repos\TP2\UI.Desktop\obj\Debug\UI.Desktop.Form1.resources
